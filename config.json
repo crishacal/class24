@@ -1,0 +1,5 @@
+{
+  "theme": "string",
+  "language": "string",
+  "notifications": false
+}

@@ -1,0 +1,23 @@
+{
+  "store": "TechShop",
+  "items": [
+    {
+      "sku": "A123",
+      "name": "Laptop",
+      "price": 299,
+      "tags": [
+        "electronics",
+        "portable"
+      ]
+    },
+    {
+      "sku": "B456",
+      "name": "Mouse",
+      "price": 99,
+      "tags": [
+        "electronics",
+        "portable"
+      ]
+    }
+  ]
+}

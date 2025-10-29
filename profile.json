@@ -1,0 +1,10 @@
+{
+  "nome": "string",
+  "idade": 23,
+  "cidade": "Goiania",
+  "habilidades": [
+    "string1",
+    "string2",
+    "string3"
+  ]
+}

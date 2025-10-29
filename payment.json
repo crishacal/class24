@@ -1,0 +1,27 @@
+[
+  {
+    "paymentId": 1,
+    "customer": "String1",
+    "value": 100
+  },
+  {
+    "paymentId": 2,
+    "customer": "String2",
+    "value": 250
+  },
+  {
+    "paymentId": 3,
+    "customer": "String3",
+    "value": 470
+  },
+  {
+    "paymentId": 4,
+    "customer": "String4",
+    "value": 420
+  },
+  {
+    "paymentId": 5,
+    "customer": "String5",
+    "value": 620
+  }
+]
