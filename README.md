@@ -3,3 +3,4 @@ This repository contains a simple Node.js script created as a class exercise. It
 
 ## Prerequisites
 - Node.js (v14 or higher)
+<img width="1440" height="824" alt="class25" src="https://github.com/user-attachments/assets/b75c58f3-25a8-43a0-a820-1484b4ecfeb4" />
